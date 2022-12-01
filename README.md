@@ -10,7 +10,7 @@ I'm a systems analysis and development student at the Positive University in Lon
 
 ### Technologies & Tools
 
-[<img src = "https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />]
+<img src = "https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
 [<img src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />](https://github.com/joaobortoliero/github-readme-stats)
 [<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://github.com/joaobortoliero/github-readme-stats)
 [<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />](https://github.com/joaobortoliero/github-readme-stats)                    
