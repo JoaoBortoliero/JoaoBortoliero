@@ -1,12 +1,15 @@
 
 ## Hi 👋, I am João Vitor Bortoliero
+
 I'm a systems analysis and development student at the Positive University in Londrina.
-- 🔭 Currently, I'm a trainee at Tata Consultancy Service, I'm always looking to improve my algorithm skills regularly.
-- 🤝 I seek to collaborate on projects as a way to improve my knowledge.
-  
-[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaovitorbortoliero/)  
-[<img align="center" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/joaovitor.bortolierosilva)
-[<img align="center" src = "https://img.shields.io/badge/bortoliero.10@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](https://www.outlook.com/bortoliero.10@hotmail.com)
+  🔭 Currently, I'm a trainee at Tata Consultancy Service, I'm always looking to improve my algorithm skills regularly.
+  🤝 I seek to collaborate on projects as a way to improve my knowledge.
+
+<p align="center" >
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaovitorbortoliero/)  
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/joaovitor.bortolierosilva)
+[<img src = "https://img.shields.io/badge/bortoliero.10@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](https://www.outlook.com/bortoliero.10@hotmail.com)
+</p>
 
 ### Technologies & Tools
 
@@ -22,6 +25,7 @@ I'm a systems analysis and development student at the Positive University in Lon
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ### ⚡ GitHub Stats
 
