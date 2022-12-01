@@ -14,7 +14,7 @@
 <br/> 
 
 ### 🛠️💻 Technologies & Tools
-<div style="display: inline_block"><br/> 
+<div style="display: inline_block"> 
   <img align="center" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -32,8 +32,6 @@
 <br/>
 
 ### ⚡ GitHub Stats
-
-<br/> 
 
 [![João Vitor Bortoliero's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobortoliero&show_icons=true&theme=radical)](https://github.com/joaobortoliero/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobortoliero&layout=compact)](https://github.com/joaobortoliero/github-readme-stats)
