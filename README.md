@@ -1,7 +1,7 @@
 
 ## Hi 👋, I am João Vitor Bortoliero
 
-#### I'm a systems analysis and development student at the Positive University in Londrina.
+#### 📖 I'm a systems analysis and development student at the Positive University in Londrina.
 #### 🔭 Currently, I'm a trainee at Tata Consultancy Service, I'm always looking to improve my algorithm skills regularly.
 #### 🤝 I seek to collaborate on projects as a way to improve my knowledge.
 
