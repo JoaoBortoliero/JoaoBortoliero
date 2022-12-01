@@ -6,11 +6,11 @@ I'm a systems analysis and development student at the Positive University in Lon
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaovitorbortoliero/)  
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/joaovitor.bortolierosilva)
-[<img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](https://www.outlook.com/bortoliero.10@hotmail.com)
+[<img src = "https://img.shields.io/badge/bortoliero.10@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](https://www.outlook.com/bortoliero.10@hotmail.com)
 
 ### Technologies & Tools
 
-[<img src = "https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />](https://github.com/joaobortoliero/github-readme-stats)
+[<img src = "https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />]
 [<img src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />](https://github.com/joaobortoliero/github-readme-stats)
 [<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://github.com/joaobortoliero/github-readme-stats)
 [<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />](https://github.com/joaobortoliero/github-readme-stats)                    
