@@ -33,5 +33,9 @@
 
 ### ⚡ GitHub Stats
 
-[![João Vitor Bortoliero's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobortoliero&show_icons=true&theme=radical)](https://github.com/joaobortoliero/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobortoliero&layout=compact)](https://github.com/joaobortoliero/github-readme-stats)
+<a href="https://github.com/joaobortoliero/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaobortoliero&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/joaobortoliero/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobortoliero&layout=compact" />
+</a>
