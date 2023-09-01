@@ -25,7 +25,6 @@
   <img align="center" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img align="center" src= "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img align="center" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>                
-  <img align="center" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </div>
 
@@ -37,5 +36,5 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaobortoliero&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/joaobortoliero/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobortoliero&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobortoliero&theme=radical" />
 </a>
