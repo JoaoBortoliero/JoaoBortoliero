@@ -36,5 +36,5 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaobortoliero&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/joaobortoliero/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobortoliero&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobortoliero&theme=radical&layout=compact" />
 </a>
