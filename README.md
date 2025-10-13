@@ -7,7 +7,7 @@
 
 <h3 align="center">💫 Olá, eu sou João Vitor Bortoliero</h3>
 
-<p align="left">Sou um desenvolvedor back-end apaixonado por automatização e inovação. Com 24 anos e base em Londrina, Brasil, possuo formação em Análise e Desenvolvimento de Sistemas. Atualmente, faço parte da equipe da Tata Consultancy Services, onde iniciei como estagiário e evolui para a posição de desenvolvedor back-end.
+<p align="left">Sou um desenvolvedor back-end apaixonado por automatização e inovação. Com 26 anos e base em Londrina, Brasil, possuo formação em Análise e Desenvolvimento de Sistemas. Atualmente, faço parte da equipe da Tata Consultancy Services, onde iniciei como estagiário e atualmente atuo em qualidade de software.
 
 #
 
