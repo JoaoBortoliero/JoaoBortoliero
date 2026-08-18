@@ -68,18 +68,6 @@ Atualmente, faço parte da equipe da <b>Tata Consultancy Services (TCS)</b>, ond
 
 ---
 
-<!-- <div align="center">
-  <h3>⚡ GitHub Stats</h3>
-  <a href="https://github.com/joaobortoliero/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaobortoliero&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-  </a>
-  <a href="https://github.com/joaobortoliero/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaobortoliero&layout=compact&langs_count=6&hide=html,css&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_color=561760&border_radius=3" alt="Most Used Languages">
-  </a>
-</div> -->
-
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaobortoliero/joaobortoliero/output/github-contribution-grid-snake-dark.svg">  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaobortoliero/joaobortoliero/output/github-contribution-grid-snake-dark.svg"> 
